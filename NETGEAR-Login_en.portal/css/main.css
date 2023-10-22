@@ -1,0 +1,32 @@
+table{
+    width: 640px;
+}
+.error{
+    color: red;
+    font-weight: bold;
+}
+.basic-menu-eco-div{
+    margin: auto;
+}
+.hero{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.modem{
+    width: 40%;
+    margin: auto;
+}
+.router{
+    width: 58%;
+    margin: auto;
+}
+.arrow{
+    margin: auto;
+}
+.verify_sec{
+    margin: auto;
+    text-align: center;
+}
+.logo{
+    width: 400px;
+}
